@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Marco!
 
-Already in my childhood I developed a great interest in **technology** and **computers**. In order to pursue this interest, I first completed my vocational baccalaureate with a focus on "computer science" and then began an apprenticeship as an IT specialist for **system integration**.
+Already in my childhood I developed a great interest in **technology** and **computers**. In order to pursue this interest, I first completed my 
+technical diploma with a focus on "computer science" and then began an apprenticeship as an IT specialist for **system integration**.
 
 During my training, I found myself liking **design** and **programming** more and more, which is why I decided to further my education in these areas by studying after my training.
 
